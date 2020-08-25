@@ -1,0 +1,369 @@
+Added Component: Designator=C1(0603电容)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C2(0603电容)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C3(0603电容)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C4(0603电容)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C5(0603电容)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C6(0603电容)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C8(0603电容)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C9(0603电容)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C7     10uF(Tan1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SOD-323)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(SOD-323)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F1(0603保险丝)
+Add component. Clean all parameters for all variants
+Added Component: Designator=FB1(0603磁珠)
+Add component. Clean all parameters for all variants
+Added Component: Designator=FB2(0603磁珠)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(HDR-16X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "16*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR-16X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "16*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=P5.2(LED 0603B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PWR(LED 0603R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(SOT-23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "P沟道场效应管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0603电阻)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0603电阻)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0603电阻)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0603电阻)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0603电阻)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=RST(SW-SMD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TTL(HDR-1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=U1(LQFP64-10*10)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(MSOP-10)
+Add component. Clean all parameters for all variants
+Added Component: Designator=USB(USB3.1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Y1(XTAL-SMD3225)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "2脚晶振"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=340_Rx Pin=R3-1
+Added Pin To Net: NetName=340_Rx Pin=U2-9
+Added Net: Name=340_Rx
+Added Pin To Net: NetName=340_Tx Pin=U2-8
+Added Net: Name=340_Tx
+Added Pin To Net: NetName=AGND Pin=C1-2
+Added Pin To Net: NetName=AGND Pin=C4-1
+Added Pin To Net: NetName=AGND Pin=U1-15
+Added Net: Name=AGND
+Added Pin To Net: NetName=AVCC Pin=C4-2
+Added Pin To Net: NetName=AVCC Pin=R1-1
+Added Pin To Net: NetName=AVCC Pin=U1-17
+Added Net: Name=AVCC
+Added Pin To Net: NetName=AVREF Pin=C1-1
+Added Pin To Net: NetName=AVREF Pin=R1-2
+Added Pin To Net: NetName=AVREF Pin=U1-16
+Added Net: Name=AVREF
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C7     10uF-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=TTL-2
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=USB-13
+Added Pin To Net: NetName=GND Pin=USB-13
+Added Pin To Net: NetName=GND Pin=USB-13
+Added Pin To Net: NetName=GND Pin=USB-13
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=U2-10
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetF1_* Pin=P1-1
+Added Pin To Net: NetName=NetF1_* Pin=P2-2
+Added Net: Name=NetF1_*
+Added Pin To Net: NetName=NetP5.2_* Pin=R5-2
+Added Net: Name=NetP5.2_*
+Added Pin To Net: NetName=NetPWR_* Pin=R4-2
+Added Net: Name=NetPWR_*
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R2-2
+Added Pin To Net: NetName=NetQ1_1 Pin=RST-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetU2_1 Pin=U2-1
+Added Net: Name=NetU2_1
+Added Pin To Net: NetName=NetU2_2 Pin=U2-2
+Added Net: Name=NetU2_2
+Added Pin To Net: NetName=P0.0 Pin=P2-15
+Added Pin To Net: NetName=P0.0 Pin=U1-51
+Added Net: Name=P0.0
+Added Pin To Net: NetName=P0.1 Pin=P2-16
+Added Pin To Net: NetName=P0.1 Pin=U1-52
+Added Net: Name=P0.1
+Added Pin To Net: NetName=P0.2 Pin=P2-13
+Added Pin To Net: NetName=P0.2 Pin=U1-53
+Added Net: Name=P0.2
+Added Pin To Net: NetName=P0.3 Pin=P2-7
+Added Pin To Net: NetName=P0.3 Pin=U1-59
+Added Net: Name=P0.3
+Added Pin To Net: NetName=P0.4 Pin=P2-8
+Added Pin To Net: NetName=P0.4 Pin=U1-60
+Added Net: Name=P0.4
+Added Pin To Net: NetName=P0.5 Pin=P2-5
+Added Pin To Net: NetName=P0.5 Pin=U1-61
+Added Net: Name=P0.5
+Added Pin To Net: NetName=P0.6 Pin=P2-6
+Added Pin To Net: NetName=P0.6 Pin=U1-62
+Added Net: Name=P0.6
+Added Pin To Net: NetName=P0.7 Pin=P2-3
+Added Pin To Net: NetName=P0.7 Pin=U1-63
+Added Net: Name=P0.7
+Added Pin To Net: NetName=P1.0 Pin=P2-4
+Added Pin To Net: NetName=P1.0 Pin=U1-64
+Added Net: Name=P1.0
+Added Pin To Net: NetName=P1.1 Pin=P1-6
+Added Pin To Net: NetName=P1.1 Pin=U1-3
+Added Net: Name=P1.1
+Added Pin To Net: NetName=P1.2 Pin=P1-7
+Added Pin To Net: NetName=P1.2 Pin=U1-4
+Added Net: Name=P1.2
+Added Pin To Net: NetName=P1.3 Pin=P1-8
+Added Pin To Net: NetName=P1.3 Pin=U1-5
+Added Net: Name=P1.3
+Added Pin To Net: NetName=P1.4 Pin=P1-13
+Added Pin To Net: NetName=P1.4 Pin=U1-10
+Added Net: Name=P1.4
+Added Pin To Net: NetName=P1.5 Pin=P1-15
+Added Pin To Net: NetName=P1.5 Pin=U1-12
+Added Net: Name=P1.5
+Added Pin To Net: NetName=P1.6 Pin=C3-1
+Added Pin To Net: NetName=P1.6 Pin=P1-16
+Added Pin To Net: NetName=P1.6 Pin=U1-13
+Added Pin To Net: NetName=P1.6 Pin=Y1-1
+Added Net: Name=P1.6
+Added Pin To Net: NetName=P1.7 Pin=C2-1
+Added Pin To Net: NetName=P1.7 Pin=P1-17
+Added Pin To Net: NetName=P1.7 Pin=U1-14
+Added Pin To Net: NetName=P1.7 Pin=Y1-2
+Added Net: Name=P1.7
+Added Pin To Net: NetName=P2.0 Pin=P2-26
+Added Pin To Net: NetName=P2.0 Pin=U1-42
+Added Net: Name=P2.0
+Added Pin To Net: NetName=P2.1 Pin=P2-24
+Added Pin To Net: NetName=P2.1 Pin=U1-44
+Added Net: Name=P2.1
+Added Pin To Net: NetName=P2.2 Pin=P2-21
+Added Pin To Net: NetName=P2.2 Pin=U1-45
+Added Net: Name=P2.2
+Added Pin To Net: NetName=P2.3 Pin=P2-22
+Added Pin To Net: NetName=P2.3 Pin=U1-46
+Added Net: Name=P2.3
+Added Pin To Net: NetName=P2.4 Pin=P2-19
+Added Pin To Net: NetName=P2.4 Pin=U1-47
+Added Net: Name=P2.4
+Added Pin To Net: NetName=P2.5 Pin=P2-20
+Added Pin To Net: NetName=P2.5 Pin=U1-48
+Added Net: Name=P2.5
+Added Pin To Net: NetName=P2.6 Pin=P2-17
+Added Pin To Net: NetName=P2.6 Pin=U1-49
+Added Net: Name=P2.6
+Added Pin To Net: NetName=P2.7 Pin=P2-18
+Added Pin To Net: NetName=P2.7 Pin=U1-50
+Added Net: Name=P2.7
+Added Pin To Net: NetName=P3.0 Pin=P1-25
+Added Pin To Net: NetName=P3.0 Pin=TTL-4
+Added Pin To Net: NetName=P3.0 Pin=U1-27
+Added Net: Name=P3.0
+Added Pin To Net: NetName=P3.1 Pin=P1-26
+Added Pin To Net: NetName=P3.1 Pin=R3-2
+Added Pin To Net: NetName=P3.1 Pin=TTL-3
+Added Pin To Net: NetName=P3.1 Pin=U1-28
+Added Net: Name=P3.1
+Added Pin To Net: NetName=P3.2 Pin=P1-27
+Added Pin To Net: NetName=P3.2 Pin=U1-29
+Added Net: Name=P3.2
+Added Pin To Net: NetName=P3.3 Pin=P1-28
+Added Pin To Net: NetName=P3.3 Pin=U1-30
+Added Net: Name=P3.3
+Added Pin To Net: NetName=P3.4 Pin=P1-29
+Added Pin To Net: NetName=P3.4 Pin=U1-31
+Added Net: Name=P3.4
+Added Pin To Net: NetName=P3.5 Pin=P1-30
+Added Pin To Net: NetName=P3.5 Pin=U1-32
+Added Net: Name=P3.5
+Added Pin To Net: NetName=P3.6 Pin=P2-31
+Added Pin To Net: NetName=P3.6 Pin=U1-35
+Added Net: Name=P3.6
+Added Pin To Net: NetName=P3.7 Pin=P2-32
+Added Pin To Net: NetName=P3.7 Pin=U1-36
+Added Net: Name=P3.7
+Added Pin To Net: NetName=P4.0 Pin=P1-20
+Added Pin To Net: NetName=P4.0 Pin=U1-22
+Added Net: Name=P4.0
+Added Pin To Net: NetName=P4.1 Pin=P2-29
+Added Pin To Net: NetName=P4.1 Pin=U1-37
+Added Net: Name=P4.1
+Added Pin To Net: NetName=P4.2 Pin=P2-23
+Added Pin To Net: NetName=P4.2 Pin=U1-43
+Added Net: Name=P4.2
+Added Pin To Net: NetName=P4.3 Pin=P2-10
+Added Pin To Net: NetName=P4.3 Pin=U1-58
+Added Net: Name=P4.3
+Added Pin To Net: NetName=P4.4 Pin=P1-14
+Added Pin To Net: NetName=P4.4 Pin=U1-11
+Added Net: Name=P4.4
+Added Pin To Net: NetName=P5.0 Pin=P1-31
+Added Pin To Net: NetName=P5.0 Pin=U1-33
+Added Net: Name=P5.0
+Added Pin To Net: NetName=P5.1 Pin=P1-32
+Added Pin To Net: NetName=P5.1 Pin=U1-34
+Added Net: Name=P5.1
+Added Pin To Net: NetName=P5.2 Pin=P1-3
+Added Pin To Net: NetName=P5.2 Pin=U1-1
+Added Net: Name=P5.2
+Added Pin To Net: NetName=P5.3 Pin=P1-5
+Added Pin To Net: NetName=P5.3 Pin=U1-2
+Added Net: Name=P5.3
+Added Pin To Net: NetName=P5.4 Pin=P1-18
+Added Pin To Net: NetName=P5.4 Pin=U1-18
+Added Net: Name=P5.4
+Added Pin To Net: NetName=P5.5 Pin=P1-19
+Added Pin To Net: NetName=P5.5 Pin=U1-20
+Added Net: Name=P5.5
+Added Pin To Net: NetName=P6.0 Pin=P1-9
+Added Pin To Net: NetName=P6.0 Pin=U1-6
+Added Net: Name=P6.0
+Added Pin To Net: NetName=P6.1 Pin=P1-10
+Added Pin To Net: NetName=P6.1 Pin=U1-7
+Added Net: Name=P6.1
+Added Pin To Net: NetName=P6.2 Pin=P1-11
+Added Pin To Net: NetName=P6.2 Pin=U1-8
+Added Net: Name=P6.2
+Added Pin To Net: NetName=P6.3 Pin=P1-12
+Added Pin To Net: NetName=P6.3 Pin=U1-9
+Added Net: Name=P6.3
+Added Pin To Net: NetName=P6.4 Pin=P1-21
+Added Pin To Net: NetName=P6.4 Pin=U1-23
+Added Net: Name=P6.4
+Added Pin To Net: NetName=P6.5 Pin=P1-22
+Added Pin To Net: NetName=P6.5 Pin=U1-24
+Added Net: Name=P6.5
+Added Pin To Net: NetName=P6.6 Pin=P1-23
+Added Pin To Net: NetName=P6.6 Pin=U1-25
+Added Net: Name=P6.6
+Added Pin To Net: NetName=P6.7 Pin=P1-24
+Added Pin To Net: NetName=P6.7 Pin=U1-26
+Added Net: Name=P6.7
+Added Pin To Net: NetName=P7.0 Pin=P2-30
+Added Pin To Net: NetName=P7.0 Pin=U1-38
+Added Net: Name=P7.0
+Added Pin To Net: NetName=P7.1 Pin=P2-27
+Added Pin To Net: NetName=P7.1 Pin=U1-39
+Added Net: Name=P7.1
+Added Pin To Net: NetName=P7.2 Pin=P2-28
+Added Pin To Net: NetName=P7.2 Pin=U1-40
+Added Net: Name=P7.2
+Added Pin To Net: NetName=P7.3 Pin=P2-25
+Added Pin To Net: NetName=P7.3 Pin=U1-41
+Added Net: Name=P7.3
+Added Pin To Net: NetName=P7.4 Pin=P2-14
+Added Pin To Net: NetName=P7.4 Pin=U1-54
+Added Net: Name=P7.4
+Added Pin To Net: NetName=P7.5 Pin=P2-11
+Added Pin To Net: NetName=P7.5 Pin=U1-55
+Added Net: Name=P7.5
+Added Pin To Net: NetName=P7.6 Pin=P2-12
+Added Pin To Net: NetName=P7.6 Pin=U1-56
+Added Net: Name=P7.6
+Added Pin To Net: NetName=P7.7 Pin=P2-9
+Added Pin To Net: NetName=P7.7 Pin=U1-57
+Added Net: Name=P7.7
+Added Pin To Net: NetName=VCC Pin=C5-1
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=VCC Pin=C8-2
+Added Pin To Net: NetName=VCC Pin=C7     10uF-1
+Added Pin To Net: NetName=VCC Pin=Q1-2
+Added Pin To Net: NetName=VCC Pin=Q1-3
+Added Pin To Net: NetName=VCC Pin=R4-1
+Added Pin To Net: NetName=VCC Pin=R5-1
+Added Pin To Net: NetName=VCC Pin=RST-1
+Added Pin To Net: NetName=VCC Pin=TTL-1
+Added Pin To Net: NetName=VCC Pin=U1-19
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

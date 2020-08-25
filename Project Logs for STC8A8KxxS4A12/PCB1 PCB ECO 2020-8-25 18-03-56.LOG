@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=P1.6 Pin=Y1-1
+Removed Pin From Net: NetName=P1.7 Pin=Y1-2
+Added Component: Designator=Y1(XTAL-SMD3225)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "2脚晶振"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P1.6 Pin=Y1-1
+Added Pin To Net: NetName=P1.7 Pin=Y1-3
