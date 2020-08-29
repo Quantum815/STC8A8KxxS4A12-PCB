@@ -1,0 +1,38 @@
+Move Component(s) Origin to Grid
+Filename     : E:\ProgramData\GithubRepositories\STC8A8K64S4A12-PCB\PCB1.PcbDoc
+Date         : 2020/8/29
+Time         : 14:05:59
+Time Elapsed : 00:00:00
+
+
+    Component Y1-24MHz (2372.448mil,3534.512mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SIP Component USB-USB_TypeC (2510mil,3794mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SOIC Component U2-CH340E (2604.401mil,3513.622mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    Component U1-STC8A8K64S4A12_LQFP64 (2525mil,3175mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SIP Component TTL-Header 4 (2375mil,2425mil) on Top Layer - Component origin is already ON grid.
+    Component RST-* (2525mil,2675mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R5-4.7K (2344.055mil,2904.079mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R4-4.7K (2620.276mil,2987.071mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R3-300R (2482.165mil,2987.071mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R2-10K (2482.165mil,2904.079mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R1-0R (2482.165mil,2821.087mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component Q1-AO3401 (2389.882mil,3306.024mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component PWR-Red_LED (2280mil,3855mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component P5.2-Blue_LED (2770mil,3855mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    DIP Component P2-Header 16X2 (2975mil,3925mil) on Bottom Layer - Component origin is already ON grid.
+    DIP Component P1-Header 16X2 (2175mil,3925mil) on Bottom Layer - Component origin is already ON grid.
+    SMT Small Component FB2-0R (2461.496mil,3356.599mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component FB1-0R (2344.055mil,2821.087mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component F1-350mA (2620.276mil,2904.079mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component D2-5VŒ»—ππ‹ (2325.26mil,3181.992mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component D1-1N5819 (2487.118mil,3181.992mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C7-16V   10uF (2564.028mil,3079.15mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C9-100nF (2344.055mil,2987.071mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C8-22nF (2667.771mil,3246.047mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C6-10nF (2344.055mil,3153.055mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C5-10nF (2482.165mil,3070.063mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C4-100nF (2620.276mil,3070.063mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C3-22pF (2344.055mil,3070.063mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C2-22pF (2482.165mil,3153.055mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C1-100nF (2620.276mil,3153.055mil) on Bottom Layer - Component pads are OFF grid. No action taken.
+count : 30
